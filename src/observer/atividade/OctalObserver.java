@@ -5,7 +5,6 @@ public class OctalObserver implements Observer {
     private String name;
     private Subject topic;
     
-    
     public OctalObserver (String name){
         this.name= name;
         

@@ -33,5 +33,5 @@ public class GofObserver {
         // Retira um observador e envia uma mensagem
         topic.unregister(firstObserver);
         topic.postMassage("hello subscribers");
-           }
+        }
 }
