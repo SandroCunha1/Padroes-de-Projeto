@@ -2,6 +2,25 @@
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
-        <group/>
+        <group>
+            <file>file:/C:/Sandro%20-%20ADS/Netbeans/DesignPatterns/src/strategy/GofStrategy.java</file>
+            <file>file:/C:/Sandro%20-%20ADS/Netbeans/DesignPatterns/src/observer/atividade/BinaryObserver.java</file>
+            <file>file:/C:/Sandro%20-%20ADS/Netbeans/DesignPatterns/src/strategy/atividade/PayByCreditCard.java</file>
+            <file>file:/C:/Sandro%20-%20ADS/Netbeans/DesignPatterns/src/observer/atividade/Observer.java</file>
+            <file>file:/C:/Sandro%20-%20ADS/Netbeans/DesignPatterns/src/strategy/interfaces/InvestStrategy.java</file>
+            <file>file:/C:/Sandro%20-%20ADS/Netbeans/DesignPatterns/src/strategy/atividade/Order.java</file>
+            <file>file:/C:/Sandro%20-%20ADS/Netbeans/DesignPatterns/src/strategy/model/Context.java</file>
+            <file>file:/C:/Sandro%20-%20ADS/Netbeans/DesignPatterns/src/observer/atividade/HexaObserver.java</file>
+            <file>file:/C:/Sandro%20-%20ADS/Netbeans/DesignPatterns/src/strategy/model/InvestModer.java</file>
+            <file>file:/C:/Sandro%20-%20ADS/Netbeans/DesignPatterns/src/strategy/atividade/GofStrategy.java</file>
+            <file>file:/C:/Sandro%20-%20ADS/Netbeans/DesignPatterns/src/strategy/model/InvestAudaci.java</file>
+            <file>file:/C:/Sandro%20-%20ADS/Netbeans/DesignPatterns/src/strategy/atividade/PayByPayPal.java</file>
+            <file>file:/C:/Sandro%20-%20ADS/Netbeans/DesignPatterns/src/observer/atividade/Subject.java</file>
+            <file>file:/C:/Sandro%20-%20ADS/Netbeans/DesignPatterns/src/strategy/model/InvestConcerv.java</file>
+            <file>file:/C:/Sandro%20-%20ADS/Netbeans/DesignPatterns/src/observer/GofObserver.java</file>
+            <file>file:/C:/Sandro%20-%20ADS/Netbeans/DesignPatterns/src/observer/atividade/MainTeste.java</file>
+            <file>file:/C:/Sandro%20-%20ADS/Netbeans/DesignPatterns/src/observer/atividade/OctalObserver.java</file>
+            <file>file:/C:/Sandro%20-%20ADS/Netbeans/DesignPatterns/src/strategy/atividade/PayStrategy.java</file>
+        </group>
     </open-files>
 </project-private>
